@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\code_TRA\instance-static\bin\Debug\net6.0\instance-static.exe
+C:\Users\DELL\Desktop\code_TRA\instance-static\bin\Debug\net6.0\instance-static.deps.json
+C:\Users\DELL\Desktop\code_TRA\instance-static\bin\Debug\net6.0\instance-static.runtimeconfig.json
+C:\Users\DELL\Desktop\code_TRA\instance-static\bin\Debug\net6.0\instance-static.dll
+C:\Users\DELL\Desktop\code_TRA\instance-static\bin\Debug\net6.0\instance-static.pdb
+C:\Users\DELL\Desktop\code_TRA\instance-static\obj\Debug\net6.0\instance-static.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\code_TRA\instance-static\obj\Debug\net6.0\instance-static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\code_TRA\instance-static\obj\Debug\net6.0\instance-static.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\code_TRA\instance-static\obj\Debug\net6.0\instance-static.AssemblyInfo.cs
+C:\Users\DELL\Desktop\code_TRA\instance-static\obj\Debug\net6.0\instance-static.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\code_TRA\instance-static\obj\Debug\net6.0\instance-static.dll
+C:\Users\DELL\Desktop\code_TRA\instance-static\obj\Debug\net6.0\refint\instance-static.dll
+C:\Users\DELL\Desktop\code_TRA\instance-static\obj\Debug\net6.0\instance-static.pdb
+C:\Users\DELL\Desktop\code_TRA\instance-static\obj\Debug\net6.0\instance-static.genruntimeconfig.cache
+C:\Users\DELL\Desktop\code_TRA\instance-static\obj\Debug\net6.0\ref\instance-static.dll
